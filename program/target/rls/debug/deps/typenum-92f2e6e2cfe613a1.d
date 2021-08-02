@@ -1,0 +1,18 @@
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/deps/typenum-92f2e6e2cfe613a1.rmeta: /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/op.rs /Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/consts.rs
+
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/deps/typenum-92f2e6e2cfe613a1.d: /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/op.rs /Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/consts.rs
+
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs:
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs:
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/op.rs:
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/op.rs

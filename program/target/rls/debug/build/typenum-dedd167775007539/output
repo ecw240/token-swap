@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/loan/solana-program-library/token-swap/program/target/rls/debug/build/typenum-dedd167775007539/out/op.rs

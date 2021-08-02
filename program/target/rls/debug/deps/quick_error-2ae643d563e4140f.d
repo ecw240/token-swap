@@ -1,0 +1,5 @@
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/deps/quick_error-2ae643d563e4140f.rmeta: /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/quick-error-1.2.3/src/lib.rs
+
+/Users/loan/solana-program-library/token-swap/program/target/rls/debug/deps/quick_error-2ae643d563e4140f.d: /Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/quick-error-1.2.3/src/lib.rs
+
+/Users/loan/.cargo/registry/src/github.com-1ecc6299db9ec823/quick-error-1.2.3/src/lib.rs:
